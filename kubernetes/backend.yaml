@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: pragya01/wanderlust-backend-beta:v2.1
+          image: pragya01/wanderlust-backend-beta:v1.6
           ports:
             - containerPort: 8080
 ---
